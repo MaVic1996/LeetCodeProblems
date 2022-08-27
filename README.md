@@ -1,2 +1,2 @@
 # LeetCodeProblems
-My own problem awnsers for LeetCode Problems (https://leetcode.com/)
+My own problem answers for LeetCode Problems (https://leetcode.com/)
